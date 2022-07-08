@@ -1,0 +1,35 @@
+#body1{
+    text-align:center;
+    background-color:darksalmon;
+}
+
+#title{
+    position:fixed;
+    width:100%;
+    font-size:40px;
+    text-shadow:5px 5px 5px rgb(234,123,123);
+    font-family: 'Permanent Marker', cursive;
+}
+
+#footer{
+    background-color:white;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-size:20px;
+    line-height:3;
+    text-shadow:5px 5px 5px rgb(150, 149, 149);
+    font-family: 'Permanent Marker', cursive;
+}
+
+#div1{
+    background-color:wheat;
+}
+
+#note{
+    position:fixed;
+    width:100%;
+    font-size:20px;
+    text-shadow:6px 6px 6px rgb(134, 32, 32);
+    font-family: 'Shadows Into Light', cursive;
+}
